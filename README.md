@@ -3,6 +3,10 @@
 ## Descrição do Projeto 
 <p align="center">Exercicios de realizados em aula e extra aula</p>
 
+<h1 align="center"> 
+ <img alt="Logo do repositório  " src="git.jpg" width="850px"> 
+</h1>
+
 <h4 align="center">  
  Script em construção...  
 </h4>
@@ -16,10 +20,10 @@
 <!--te-->
 
 
-#Sobre 
+# Sobre 
 Este respositorio tem como objetivo organizar e disponibilizar uma melhor visualização dos exercicios feitos em sala de aula e remoto.
 
-#tabela-de-conteudo
+# tabela-de-conteudo
 
 | Nome atividade  | Descrição     | data de postagem |
 |-----------------|---------------|------------------|
@@ -31,7 +35,7 @@ Este respositorio tem como objetivo organizar e disponibilizar uma melhor visual
 | Atividade 06    | avaliação G1  | 30/04/21         |
 
 
-#pre-requisitos
+# pre-requisitos
 Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux atraves de consele ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows 
 
 

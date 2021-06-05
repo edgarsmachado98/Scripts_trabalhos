@@ -15,7 +15,6 @@
  * [Sobre](#Sobre) 
  * [Tabela de Conteudo](#Tabela-de-conteudo)  
  * [Pre Requisitos](#Pre-requisitos) 
- *  * [Local files](#Local-files) 
  * [Tecnologias](#Tecnologias) 
 <!--te-->
 
@@ -39,4 +38,5 @@ Este respositorio tem como objetivo organizar e disponibilizar uma melhor visual
 Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux através do console ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows 
 
 
-
+# Tecnologias
+Foram utilizadas as tecnologias existentes no sistema operacional Windows como: editores de texto, terminal de comando "CMD", foi necessário a instalação de um programa auxiliar GIT BASH para intreretação dos comandos linux.

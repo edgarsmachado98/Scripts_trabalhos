@@ -13,17 +13,17 @@
 
 
  * [Sobre](#Sobre) 
- * [Tabela de Conteudo](#tabela-de-conteudo)  
- * [Pre Requisitos](#pre-requisitos) 
- *  * [Local files](#local-files) 
- * [Tecnologias](#tecnologias) 
+ * [Tabela de Conteudo](#Tabela-de-conteudo)  
+ * [Pre Requisitos](#Pre-requisitos) 
+ *  * [Local files](#Local-files) 
+ * [Tecnologias](#Tecnologias) 
 <!--te-->
 
 
 # Sobre 
 Este respositorio tem como objetivo organizar e disponibilizar uma melhor visualização dos exercicios feitos em sala de aula e remoto.
 
-# tabela-de-conteudo
+# Tabela-de-conteudo
 
 | Nome atividade  | Descrição     | data de postagem |
 |-----------------|---------------|------------------|
@@ -35,7 +35,7 @@ Este respositorio tem como objetivo organizar e disponibilizar uma melhor visual
 | Atividade 06    | avaliação G1  | 30/04/21         |
 
 
-# pre-requisitos
+# Pre-requisitos
 Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux através do console ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows 
 
 

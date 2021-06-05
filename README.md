@@ -35,7 +35,7 @@ Este respositorio tem como objetivo organizar e disponibilizar uma melhor visual
 
 
 # Pre-requisitos
-Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux através do console ou ssh e ou no windows através do powershell ou instalação do programa GitBash para windows 
+Pode ser utilizado em sistemas operacionais linux e windows pelo terminal do linux, através do console ou ssh, no windows através do powershell ou instalação do programa GitBash para windows 
 
 
 # Tecnologias
